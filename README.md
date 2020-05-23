@@ -6,7 +6,7 @@ Example use of stack in simulation of cars arrivals/departures in 2-lanes parkin
 
 > The Parking Garage contains 2 lanes, each capable of holding up to 10 cars. There is only a single entrance/exit to the garage at one end of the lanes.
 
-> ![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/garage1.png)
+> ![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/GarageCars/garage1.png)
 
 > If a customer arrives to pick up a car which is not nearest the exit, all cars blocking the cars' path are moved into the other lane. If more cars still must be moved out of the way, they go into the street. When the customer's car is driven out, all cars in the street must be put back into the garage.
 
@@ -24,20 +24,20 @@ Console application
 ## Input file 
 
 * Each line in the file contains status (letter 'A' - arrival, 'D' - departure) and plate number XXX-XXX.
-* [Example](https://github.com/abdel-elsayed/GarageCars/blob/master/garageLog.txt)
+* [Example](https://github.com/abdel-elsayed/GarageCars/blob/master/GarageCars/garageLog.txt)
 
 
 ## Screen shots
 
-![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/garage_entry_screenshot.PNG)
+![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/GarageCars/garage_entry_screenshot.PNG)
 
-![alt_tag](https://github.com/abdel-elsayed/GarageCars/blob/master/garage_exit1_screenshot.PNG)
+![alt_tag](https://github.com/abdel-elsayed/GarageCars/blob/master/GarageCars/garage_exit1_screenshot.PNG)
 
-![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/garage_exit2_screenshot.PNG)
+![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/GarageCars/garage_exit2_screenshot.PNG)
 
-![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/garage_isFull_screenshot.PNG)
+![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/GarageCars/garage_isFull_screenshot.PNG)
 
-![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/garage_notFound_screenshot.PNG)
+![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/GarageCars/garage_notFound_screenshot.PNG)
 
 ## Author
 
