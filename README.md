@@ -1,4 +1,4 @@
-# Garage Lanes - Stack
+# Garage Lanes - Using Stacks
 
 Example use of stack in simulation of cars arrivals/departures in 2-lanes parking garage.
 
