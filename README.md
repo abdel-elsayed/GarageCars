@@ -7,8 +7,7 @@ Example use of stack in simulation of cars arrivals/departures in 2-lanes parkin
 
 > Stacks are used to represent the garage Lanes and the street.
 
-> ![alt tag](https://github.com/abdel-elsayed/GarageCars/blob/master/GarageCars/garage1.png)
-
+<img src="https://github.com/abdel-elsayed/GarageCars/blob/master/lane1.png" width="500" title="hover text">
   
 ## Input
 
